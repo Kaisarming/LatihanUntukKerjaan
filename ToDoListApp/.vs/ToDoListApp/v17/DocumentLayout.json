@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CSharp\\ToDoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|d:\\github\\csharp\\todolistapp\\todolistapp\\todolistapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|d:\\github\\csharp\\todolistapp\\todolistapp\\todolistapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|d:\\github\\csharp\\todolistapp\\todolistapp\\todolistapp\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|d:\\github\\csharp\\todolistapp\\todolistapp\\todolistapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE768F-1AAF-458C-A0BA-702B65E7C279}|ToDoListApp\\ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp\\MainPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\MainPage.xaml",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp\\MainPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-01T07:14:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:29:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp\\ToDoListViewModel.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\ToDoListViewModel.cs",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp\\ToDoListViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:29:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp\\ToDoItem.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\ToDoListApp\\ToDoListApp\\ToDoListApp\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp\\ToDoItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:20:11.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CSharp\\XamarinEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE75A615-D731-4E6F-B58E-A97D95BAC63C}|XamarinEF\\XamarinEF.Android\\XamarinEF.Android.csproj|D:\\GitHub\\CSharp\\XamarinEF\\xamarinef\\xamarinef.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE75A615-D731-4E6F-B58E-A97D95BAC63C}|XamarinEF\\XamarinEF.Android\\XamarinEF.Android.csproj|solutionrelative:xamarinef\\xamarinef.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\viewmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\viewmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\views\\newitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\views\\newitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|d:\\github\\csharp\\xamarinef\\xamarinef\\xamarinef\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A25C4-6244-4B6A-9D4E-84FAA83D073E}|XamarinEF\\XamarinEF\\XamarinEF.csproj|solutionrelative:xamarinef\\xamarinef\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Models\\Item.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Models\\Item.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Models\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:59:28.866Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Models\\Repo.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Models\\Repo.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Models\\Repo.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Models\\Repo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:33:19.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\App.xaml.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\App.xaml.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\App.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:40:18.649Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF.Android\\MainActivity.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF.Android\\MainActivity.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF.Android\\MainActivity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:44:02.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataStore.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Services\\IDataStore.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Services\\IDataStore.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Services\\IDataStore.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Services\\IDataStore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:38:31.397Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemDetailPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\ItemDetailPage.xaml",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Views\\ItemDetailPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\ItemDetailPage.xaml",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Views\\ItemDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T13:46:35.647Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemDetailViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\ItemDetailViewModel.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\ViewModels\\ItemDetailViewModel.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\ItemDetailViewModel.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\ViewModels\\ItemDetailViewModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:06:44.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Views\\ItemsPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Views\\ItemsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T05:12:55.283Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:27:00.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewItemPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\NewItemPage.xaml",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Views\\NewItemPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\NewItemPage.xaml",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Views\\NewItemPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T05:13:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\Views\\LoginPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T05:12:33.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "XamarinEF\\XamarinEF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\XamarinEF\\XamarinEF\\XamarinEF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "XamarinEF\\XamarinEF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:12:29.912Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

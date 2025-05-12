@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|d:\\github\\csharp\\pagenavigationxamarin\\pagenavigationxamarin\\pagenavigationxamarin\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F678D7B7-A212-49C5-A72E-85C3323F163C}|PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.csproj|solutionrelative:pagenavigationxamarin\\pagenavigationxamarin\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml.cs",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:40:05.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\App.xaml.cs",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\App.xaml.cs",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:39:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\App.xaml",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\App.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\App.xaml",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T11:38:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\Page2.xaml",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\Page2.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\Page2.xaml",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T11:33:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\Page1.xaml",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\Page1.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\Page1.xaml",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T11:32:36.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml",
+              "ToolTip": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml",
+              "RelativeToolTip": "PageNavigationXamarin\\PageNavigationXamarin\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T11:26:08.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

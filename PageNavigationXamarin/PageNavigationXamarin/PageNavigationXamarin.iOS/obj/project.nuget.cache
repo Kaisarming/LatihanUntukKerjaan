@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQ+1hRPh5ns=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\CSharp\\PageNavigationXamarin\\PageNavigationXamarin\\PageNavigationXamarin.iOS\\PageNavigationXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
